@@ -1,1 +1,7 @@
-# China-s-GDP-Trend-Analysis
+# 中国GDP趋势预测
+
+本文使用3种方法对中国GDP时间序列数据进行分析及预测
+
+* 指数平滑方法
+* ARIMA模型
+* BSTS模型
